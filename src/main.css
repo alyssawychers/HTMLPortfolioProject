@@ -4,3 +4,14 @@ body {
   font-size: 14px;
   line-height: 120%;
 }
+.header {
+  background-color: #1b351c;
+  background-image: url(https://images.unsplash.com/photo-1505807557511-bc38492556a6?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=9ae6e0508d7cffec48a01288fa361ce7&auto=format&fit=crop&w=1350&q=80) top center no-repeat;
+  width: 100%;
+  height: 300px;
+  overflow: hidden;
+}
+.header h1 h2 {
+  color: #fff;
+  text-align: center;
+}
